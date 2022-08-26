@@ -1,1 +1,6 @@
 welcome to Devops!
+welcome to aws 
+welcome to GIT
+welcome to Maven 
+Welcome to jenkins 
+
